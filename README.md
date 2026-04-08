@@ -1,1 +1,0 @@
-# ELT: Template Extension
